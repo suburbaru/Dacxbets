@@ -20,7 +20,7 @@
 - **[Nitrogen Sports]**: You can use this site if you are not eligible to bet on Pinnacle or Bet365. You can use BTC for depositing. Most of the time you will find the same bets as on Pinnacle. (PS: This is a reflink which helps us to gain some profit)
 - **[Bet365]**: Bet365 is a European bookie with real money. You have to go through KYC identification, so don’t create an account if you are not eligible to do so. If you have a big bank and you win a lot, you will most likely get limited. Therefore, this bookie is definitely not recommended if you are high rolling.
 
-We recommend to use Fanobet + Pinnacle/Nitrogen Sports/Bet365 for the best possible experience. If you cannot use one of the recommended bookies you will most likely not be able to place some bets, but you should still be able to gain profit.
+We recommend to use Fanobet + Pinnacle / Nitrogen Sports / Bet365 for the best possible experience. If you cannot use one of the recommended bookies you will most likely not be able to place some bets, but you should still be able to gain profit.
 
 ## Interpreting the predictions
 
