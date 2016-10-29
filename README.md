@@ -5,8 +5,8 @@
 1. [Rules](#rules)
 2. [Recommended Betting Sites](#recommended-betting-sites)
 3. [Interpreting the predictions](#interpreting-the-predictions)
-4. [Additional resources](#additional-resources)
-5. [Guides](#guides)
+4. [Guides](#guides)
+5. [Additional resources](#additional-resources)
 6. [Support](#support)
   
 ## Rules
@@ -33,14 +33,6 @@ You will always find the odds at which we placed a bet in the prediction. Please
 Additionally, you will find the % of our bank we placed on the bet. Please note that this is just a suggestion. If you don’t feel comfortable with the amount we place, feel free to change it to your needs.  
 We highly recommend everyone to create and use his own spreadsheet where you can track your own bets. Since your bank and bet sizing may vary and you will most likely skip or miss some bets, don’t just use our spreadsheet. Please note that a spreadsheet gives you a good overview of every bet you made and also helps our support team to assist you if you have any problems.
 
-
-## Additional resources
-
-- http://esportlivescore.com  
-Recommended site to use for keeping track of current scores.
-- https://www.twitch.tv  
-Recommended site for streaming eSport games. You can find most games on here, sometimes they are streamed on alternative platforms but those games are the exception.
-
 ## Guides
 
 If you are new to betting, we recommend to read the following guides:
@@ -48,6 +40,13 @@ If you are new to betting, we recommend to read the following guides:
 - https://www.pinnacle.com/en/help/knowledge-base/placing-your-first-bet-at-pinnacle-sports
 - https://fanobet.com/help
 - https://nitrogensports.eu/blog/how-to-bet-on-sports/
+
+## Additional resources
+
+- http://esportlivescore.com  
+Recommended site to use for keeping track of current scores.
+- https://www.twitch.tv  
+Recommended site for streaming eSport games. You can find most games on here, sometimes they are streamed on alternative platforms but those games are the exception.
 
 ## Support
 
