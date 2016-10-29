@@ -11,7 +11,7 @@
   
 ## Rules
 
- 1.	Don’t post in the prediction group. Please use the talk group for discussions or support requests.
+1.	Don’t post in the prediction group. Please use the talk group for discussions or support requests.
 2.	Be nice to each other in the talk group. It’s a friendly place and people should be pleasant to each other.
 
 ## Recommended Betting Sites
