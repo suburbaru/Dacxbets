@@ -46,7 +46,7 @@ If you are new to betting, we recommend to read the following guides:
 - http://esportlivescore.com  
 Recommended site to use for keeping track of current scores.
 - https://www.twitch.tv  
-Recommended site for streaming eSport games. You can find most games on here, sometimes they are streamed on alternative platforms but those games are the exception.
+Recommended site for streaming eSports games. You can find most games on here, sometimes they are streamed on alternative platforms but those games are the exception.
 
 ## Support
 
