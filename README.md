@@ -58,5 +58,5 @@ If you still have questions, feel free to ask our support members. Skype: [hitm_
    [Fanobet]: <https://fanobet.com/r/depositwelcomebonus>
    [Nitrogen Sports]: <https://nitrogensports.eu/r/843841>
    [Pinnacle]: <https://www.pinnacle.com/>
-   [Bet365]: <www.bet365.com/>
+   [Bet365]: <https://www.bet365.com/>
    [hitm_man]: <http://hatscripts.com/addskype?hitm_man>
