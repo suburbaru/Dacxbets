@@ -58,6 +58,6 @@ If you still have any questions, feel free to ask on the support channel on our 
 
    [Fanobet]: <https://fanobet.com/r/depositwelcomebonus>
    [Nitrogen Sports]: <https://nitrogensports.eu/r/843841>
-   [Pinnacle]: <https://www.pinnacle.com/>
+   [Pinnacle]: <https://wlpinnacle.adsrv.eacdn.com/C.ashx?btag=a_15646b_14963c_&affid=15757&siteid=15646&adid=14963&c=a>
    [Bet365]: <https://www.bet365.com/>
    [hitm_man]: <http://hatscripts.com/addskype?hitm_man>
