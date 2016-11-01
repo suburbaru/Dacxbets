@@ -44,8 +44,8 @@ If you are new to betting, we recommend to read the following guides:
 
 ## Resources
 
-- [spread] The spreadsheets of the service where you can find every bet.
-- [empty] The empty spreadsheet for your personal use. Please download it an start with your own spreadsheet where you track your bets with your bank.
+- [Spreadsheet] The spreadsheets of the service where you can find every bet.
+- [Empty Spreadsheet] The empty spreadsheet for your personal use. Please download it an start with your own spreadsheet where you track your bets with your bank.
 
 - http://esportlivescore.com  
 Recommended site to use for keeping track of current scores.
@@ -64,5 +64,5 @@ If you still have any questions, feel free to ask on the support channel on our 
    [Pinnacle]: <https://wlpinnacle.adsrv.eacdn.com/C.ashx?btag=a_15646b_14963c_&affid=15757&siteid=15646&adid=14963&c=a>
    [Bet365]: <https://www.bet365.com/>
    [hitm_man]: <http://hatscripts.com/addskype?hitm_man>
-   [spread]: <https://docs.google.com/spreadsheets/d/1MpauG2UHySNmv1ZnrPl5-pzl8TtoQIHd62GTxBMMpZ4/edit#gid=787366976>
-   [empty]: <https://docs.google.com/spreadsheets/d/1Ka0AWnO3vdDbVaB7_9pNlqNMzjb8hov4jiOjkIn4l4c/edit#gid=787366976>
+   [Spreadsheet]: <https://docs.google.com/spreadsheets/d/1MpauG2UHySNmv1ZnrPl5-pzl8TtoQIHd62GTxBMMpZ4/edit#gid=787366976>
+   [Empty Spreadsheet]: <https://docs.google.com/spreadsheets/d/1Ka0AWnO3vdDbVaB7_9pNlqNMzjb8hov4jiOjkIn4l4c/edit#gid=787366976>
