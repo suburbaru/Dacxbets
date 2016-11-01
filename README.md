@@ -44,7 +44,7 @@ If you are new to betting, we recommend to read the following guides:
 
 ## Resources
 
-- [Spreadsheet] The spreadsheets of the service where you can find every bet.
+- [Spreadsheet] The spreadsheet of the service where you can find every bet.
 - [Empty Spreadsheet] The empty spreadsheet for your personal use. Please download it an start with your own spreadsheet where you track your bets with your bank.
 
 - http://esportlivescore.com  
