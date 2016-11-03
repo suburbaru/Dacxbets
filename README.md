@@ -16,7 +16,7 @@
 3. Be nice to each other in the discussion channel. It’s a friendly place and people should be pleasant to each other.
 
 ## Recommended Betting Sites
-- **[Pinnacle]**: Pinnacle is an Asian bookie which means that you will not have any problems with limitations. We would definitely highly recommend this bookie. Please note that you have to be 18+ and that Pinnacle is not available in every country (e.g. Germany). Therefore, please check if you are eligible for registration before creating a new account.
+- **[Pinnacle]**: Pinnacle is a bookie which offers Asian odds. One of the biggest advatgaes is that you will also not have any problems with limitations. We would definitely highly recommend this bookie. Please note that you have to be 18+ and that Pinnacle is not available in every country (e.g. Germany). Therefore, please check if you are eligible for registration before creating a new account.
 - **[Fanobet]**: We also highly recommend to use this site for this service since they offer markets that very often no other site offers (e.g. CSGO: Team X < 12,5 points). You can deposit either with BTC or with real money. (PS: This is a reflink where you get 1% cashback)
 - **[Nitrogen Sports]**: You can use this site if you are not eligible to bet on Pinnacle or Bet365. You can use BTC for depositing. Most of the time you will find the same bets as on Pinnacle. (PS: This is a reflink which helps us to gain some profit)
 - **[Bet365]**: Bet365 is a European bookie with real money. You have to go through KYC identification, so don’t create an account if you are not eligible to do so. If you have a big bank and you win a lot, you will most likely get limited. Therefore, this bookie is definitely not recommended if you are high rolling.
