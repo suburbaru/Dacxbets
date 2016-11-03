@@ -12,7 +12,7 @@
 ## Rules
 
 1. **Don't share any information regarding the predictions and advice with anyone outside of the group. If you do so, you will get perma banned from the group without refund.** 
-2. Please post your help and support reuqests in the support channel. This speeds up the whole process of getting help and also simplifies our work.
+2. Please post your help and support requests in the support channel. This speeds up the whole process of getting help and also simplifies our work.
 3. Be nice to each other in the discussion channel. It’s a friendly place and people should be pleasant to each other.
 
 ## Recommended Betting Sites
