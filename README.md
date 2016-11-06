@@ -44,8 +44,8 @@ If you are new to betting, we recommend to read the following guides:
 
 ## Resources
 
-- [Blank Spreadsheet] The blank spreadsheet for your personal use. Please download it an start with your own spreadsheet where you track your bets with your bank.
-
+- [Blank Spreadsheet]
+The blank spreadsheet for your personal use. Please download it an start with your own spreadsheet where you track your bets with your bank.
 - http://esportlivescore.com  
 Recommended site to use for keeping track of current scores.
 - https://www.twitch.tv  
